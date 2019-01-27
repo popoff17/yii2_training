@@ -1,0 +1,14 @@
+#site_wrapper{
+	width:1400px;
+}
+.right_block{
+	/* display:none; */
+	width:100px;
+}
+
+#amt,
+#amedia{
+	width:100px;
+	margin-bottom:10px;
+}
+

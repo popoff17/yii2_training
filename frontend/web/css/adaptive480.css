@@ -1,0 +1,15 @@
+body{
+	min-width:300px;
+}
+#site_wrapper{
+	width:300px;
+}
+.left_block,
+.right_block,
+.center_block {
+    width: 300px;
+}
+
+#video_block .video_list .video_item{
+	width:300px;
+}

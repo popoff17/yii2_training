@@ -1,0 +1,47 @@
+body{
+	min-width:420px;
+}
+h1 {
+    font-size: 60px;
+    margin: 0 0 20px 0;
+}
+#site_wrapper{
+	width:420px;
+}
+.left_block,
+.right_block,
+.center_block {
+    width: 420px;
+}
+#afisha .afisha_item{
+	float:none;
+	display:inline-block;
+	width:250px;
+}
+#mobile_menu_button{
+	margin-top:30px;
+	display:block;
+}
+#preloader img{
+	width:260px;
+}
+#preloader .loading_text{
+	font-size:26px;
+}
+.fancybox-close {
+    top: 0px;
+    right: -40px;
+}
+#music_player .ttw-music-player .album-cover{
+	float:none;
+	margin-bottom: 20px;
+}
+#music_player .ttw-music-player .player .title{
+	padding-left:0;
+}
+#music_player .ttw-music-player .tracklist{
+	margin-top:0;
+}
+#video_block .video_list .video_item{
+	width:100%;
+}
